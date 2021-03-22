@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dohoanglong
+- 👋 Hi, I’m Long
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some open source project
