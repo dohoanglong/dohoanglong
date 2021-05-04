@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Long
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on some open source project
+- 💞️ I’m looking for a job
 - 📫 How to reach me: https://www.facebook.com/hoanglong285/
 
 <!---
