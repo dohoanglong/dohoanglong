@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Long
-- 👀 I’m interested in programming
-- 🌱 I’m wanted to learn everything
-- 📫 How to reach me: https://www.facebook.com/hoanglong285/
+- Hi, I’m Long
+- I’m interested in programming 
+- How to reach me: https://www.linkedin.com/in/longhoangdo/
 
 <!---
 dohoanglong/dohoanglong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
